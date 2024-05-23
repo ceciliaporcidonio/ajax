@@ -1,7 +1,7 @@
 // main.js
 
 document.addEventListener('DOMContentLoaded', () => {
-    const username = 'ogiansouza'; // Coloque o nome de usuário do Github aqui
+    const username = 'ceciliaporcidonio'; // Coloque o nome de usuário do Github aqui
     const apiUrl = `https://api.github.com/users/${username}`;
 
     fetch(apiUrl)
